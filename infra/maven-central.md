@@ -17,7 +17,7 @@ WireMock BDFL and other repository admins.
 
 ### Getting access for a project
 
-1. Submit a ticket using the _Maven Central Hosting_ issue template,
+1. Submit a ticket using the [_Maven Central Hosting_ issue template](https://github.com/wiremock/community/issues/new?assignees=&labels=community%2Cinfrastructure&projects=&template=maven-central.yml),
    provide all data there
 2. If the repository is not on the `wiremock` GitHub organization,
    you will need to transfer it first.
